@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99881266893",
+    "firebase_url": "https://mobauth-71f45.firebaseio.com",
+    "project_id": "mobauth-71f45",
+    "storage_bucket": "mobauth-71f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99881266893:android:f84a798b24f8998a4d0384",
+        "android_client_info": {
+          "package_name": "com.example.mobphone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99881266893-p9d59fs9752rvuc1udnpjqv67dm8ffr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFgCXmqcHYvTaPvwNFZ5jmldqPrcgdxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99881266893-p9d59fs9752rvuc1udnpjqv67dm8ffr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
